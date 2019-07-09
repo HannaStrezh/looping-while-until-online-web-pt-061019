@@ -3,6 +3,7 @@ def using_while
  while levitaion_force<10
  puts "Wingardium Leviosa"
  levitation_force +=1 
+ end
   #your code here
 end
 
